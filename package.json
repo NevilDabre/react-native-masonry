@@ -1,6 +1,6 @@
 {
-  "name": "react-native-masonry",
-  "version": "0.1",
+  "name": "@neville.dabreo/react-native-masonry",
+  "version": "0.5.0-alpha.6",
   "description": "A react-native component for a masonry layout",
   "main": "./components/Masonry.js",
   "scripts": {
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brh55/react-native-masonry.git"
+    "url": "git+https://github.com/NevilDabre/react-native-masonry.git"
   },
   "keywords": [
     "react-native",
@@ -26,9 +26,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brh55/react-native-masonry/issues"
+    "url": "https://github.com/NevilDabre/react-native-masonry/issues"
   },
-  "homepage": "https://github.com/brh55/react-native-masonry#readme",
+  "homepage": "https://github.com/NevilDabre/react-native-masonry#readme",
   "dependencies": {
     "data.task": "^3.1.1",
     "lodash.differenceby": "^4.8.0",
@@ -52,8 +52,8 @@
   },
   "contributors": [
     {
-      "name": "Kevin McGill",
-      "url": "http://mcgilldevtech.com/"
+      "name": "Neville Dabreo",
+      "url": "https://github.com/NevilDabre"
     }
   ],
   "jest": {
@@ -62,10 +62,5 @@
       "<rootDir>/example/",
       "<rootDir>/__tests__/mocks/"
     ]
-  },
-  "collective": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/react-native-masonry",
-    "logo": "https://opencollective.com/opencollective/logo.txt"
   }
 }
