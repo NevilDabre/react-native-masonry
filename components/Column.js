@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, Image, TouchableHighlight, FlatList } from 'react-native';
+import { View, FlatList } from 'react-native';
 import styles from '../styles/main';
 import PropTypes from 'prop-types';
 import Brick from './Brick';

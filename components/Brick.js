@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { View, Image, TouchableHighlight } from 'react-native';
 import Injector from 'react-native-injectable-component';
 
